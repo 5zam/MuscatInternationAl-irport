@@ -6,5 +6,4 @@ This project is a database design for an **Airport Management System**, which in
 
 The Entity Relationship Diagram (ERD) below represents the relationships between the main entities in the system:
 
-![ER Diagram](assets/Entity Relation.drawio.png)
-
+![Entity Relation drawio](https://github.com/user-attachments/assets/19b9c31f-3615-4267-9afb-53beedb1ad9f)
