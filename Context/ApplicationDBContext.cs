@@ -16,5 +16,14 @@ namespace AirportManagementSystem.Cotext
         }
 
         public DbSet<Airline> Airlines_tb { get; set; }
+        public DbSet<AirportOfficer> AirportOfficer_tb { get; set; }
+        public DbSet<Baggage> Baggage_tb { get; set; }
+        public DbSet<Flight> Flight_tb { get; set; }
+        public DbSet<Gate> Gate_tb { get; set; }
+        public DbSet<Passenger> Passenger_tb { get;set; }
+        public DbSet<SecurityCheckpoint> SecurityCheckpoint_tb { get; set; }
+        public DbSet<Terminal> Terminal_tb { get; set; }
+
+
     }
 }
